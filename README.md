@@ -83,7 +83,7 @@ https://hub.docker.com/repositories/bonanen
 
 ---
 
-## Author & Credits
+## 👇Author
 
 **Bonane NIYIGENA**  
 **Student at AUCA with ID: 26900**
